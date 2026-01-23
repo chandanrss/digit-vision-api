@@ -1,0 +1,50 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env and environment
+dv-venv/
+.env/
+*.env.local
+*.secrets
+
+.env
+
+# Build / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+*.tar
+
+# OS files
+.DS_Store
+
+# IDE configs
+.vscode/
+.idea/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Local test images
+*.png
+*.jpg
+*.jpeg
+
+# Node modules (if any)
+node_modules/
+
+# Optional: large model files
+model/
+*.h5
+*.pb
