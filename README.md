@@ -1,4 +1,4 @@
-## Digit Vision API
+## Digit Vision API (Machine Learning Project)
 
 ### Overview:
 
